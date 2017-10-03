@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/CharVar/bin/Debug/netcoreapp2.0/CharVar.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/CharVar/bin/Debug/netcoreapp2.0/CharVar.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/CharVar/bin/Debug/netcoreapp2.0/CharVar.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/CharVar/bin/Debug/netcoreapp2.0/CharVar.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/CharVar/bin/Debug/netcoreapp2.0/CharVar.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/CharVar/obj/Debug/netcoreapp2.0/CharVar.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/CharVar/obj/Debug/netcoreapp2.0/CharVar.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/CharVar/obj/Debug/netcoreapp2.0/CharVar.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/CharVar/obj/Debug/netcoreapp2.0/CharVar.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/CharVar/obj/Debug/netcoreapp2.0/CharVar.pdb
