@@ -15,7 +15,7 @@ namespace CharVar
             Console.WriteLine("The value of c2 is " + c2);
 
             char symbol = '$';
-            Console.WriteLine("Is number or letter? " + Char.IsLetterOrDigit(symbol));
+            Console.WriteLine("Is " + symbol + " a number or letter? " + Char.IsLetterOrDigit(symbol));
         }
     }
 }

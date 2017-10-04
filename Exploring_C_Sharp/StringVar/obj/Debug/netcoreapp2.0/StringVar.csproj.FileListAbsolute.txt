@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringVar/bin/Debug/netcoreapp2.0/StringVar.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringVar/bin/Debug/netcoreapp2.0/StringVar.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringVar/bin/Debug/netcoreapp2.0/StringVar.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringVar/bin/Debug/netcoreapp2.0/StringVar.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringVar/bin/Debug/netcoreapp2.0/StringVar.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringVar/obj/Debug/netcoreapp2.0/StringVar.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringVar/obj/Debug/netcoreapp2.0/StringVar.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringVar/obj/Debug/netcoreapp2.0/StringVar.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringVar/obj/Debug/netcoreapp2.0/StringVar.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringVar/obj/Debug/netcoreapp2.0/StringVar.pdb
