@@ -1,0 +1,3 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.AssemblyInfo.cs
