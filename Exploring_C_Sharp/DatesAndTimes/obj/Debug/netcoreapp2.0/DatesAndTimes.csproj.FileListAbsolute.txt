@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.pdb
