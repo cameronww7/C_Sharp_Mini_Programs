@@ -21,7 +21,7 @@ namespace StringToNumber
             //Output("Value of doubleFromString: " + doubleFromString);
 
             double doubleFromString;
-            if (Double.TryParse(s2, out doubleFromString))
+            if (Double.TryParse(s2, out doubleFromString)) //TryParse will try and if not return a false
             {
                 Console.WriteLine("Value of doubleFromString: " + doubleFromString);
             }

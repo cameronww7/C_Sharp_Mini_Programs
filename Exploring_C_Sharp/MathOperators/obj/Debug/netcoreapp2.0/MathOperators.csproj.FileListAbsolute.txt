@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/MathOperators/bin/Debug/netcoreapp2.0/MathOperators.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/MathOperators/bin/Debug/netcoreapp2.0/MathOperators.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/MathOperators/bin/Debug/netcoreapp2.0/MathOperators.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/MathOperators/bin/Debug/netcoreapp2.0/MathOperators.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/MathOperators/bin/Debug/netcoreapp2.0/MathOperators.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/MathOperators/obj/Debug/netcoreapp2.0/MathOperators.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/MathOperators/obj/Debug/netcoreapp2.0/MathOperators.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/MathOperators/obj/Debug/netcoreapp2.0/MathOperators.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/MathOperators/obj/Debug/netcoreapp2.0/MathOperators.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/MathOperators/obj/Debug/netcoreapp2.0/MathOperators.pdb
