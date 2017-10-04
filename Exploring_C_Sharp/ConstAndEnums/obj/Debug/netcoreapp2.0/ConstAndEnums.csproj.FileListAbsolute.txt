@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ConstAndEnums/bin/Debug/netcoreapp2.0/ConstAndEnums.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ConstAndEnums/bin/Debug/netcoreapp2.0/ConstAndEnums.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ConstAndEnums/bin/Debug/netcoreapp2.0/ConstAndEnums.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ConstAndEnums/bin/Debug/netcoreapp2.0/ConstAndEnums.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ConstAndEnums/bin/Debug/netcoreapp2.0/ConstAndEnums.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ConstAndEnums/obj/Debug/netcoreapp2.0/ConstAndEnums.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ConstAndEnums/obj/Debug/netcoreapp2.0/ConstAndEnums.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ConstAndEnums/obj/Debug/netcoreapp2.0/ConstAndEnums.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ConstAndEnums/obj/Debug/netcoreapp2.0/ConstAndEnums.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ConstAndEnums/obj/Debug/netcoreapp2.0/ConstAndEnums.pdb
