@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/IfElse/bin/Debug/netcoreapp2.0/IfElse.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/IfElse/bin/Debug/netcoreapp2.0/IfElse.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/IfElse/bin/Debug/netcoreapp2.0/IfElse.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/IfElse/bin/Debug/netcoreapp2.0/IfElse.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/IfElse/bin/Debug/netcoreapp2.0/IfElse.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/IfElse/obj/Debug/netcoreapp2.0/IfElse.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/IfElse/obj/Debug/netcoreapp2.0/IfElse.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/IfElse/obj/Debug/netcoreapp2.0/IfElse.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/IfElse/obj/Debug/netcoreapp2.0/IfElse.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/IfElse/obj/Debug/netcoreapp2.0/IfElse.pdb
