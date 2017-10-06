@@ -14,7 +14,7 @@ namespace FunctionsTime
             Console.WriteLine("Total: " + total);
 
             int result;
-            AddToOutParam(Value1, Value2, out result);
+            AddToOutParam(Value1, Value2, out result); // out in both place, where its used and in function
             Console.WriteLine("The answer is " + result);
         }
 
@@ -23,7 +23,7 @@ namespace FunctionsTime
             return value1 + value2;
         }
 
-        static void AddToOutParam(int value1, int value2, out int result)
+        static void AddToOutParam(int value1, int value2, out int result) //out int result, out means this is a reference &
         {
             result = value1 + value2;
         }
