@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.pdb
