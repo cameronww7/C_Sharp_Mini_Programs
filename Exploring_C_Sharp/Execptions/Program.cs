@@ -19,14 +19,14 @@ namespace Execptions
                     // Debug.WriteLine("Value of i : " + i); // use Debug function to get more information!!!
                     Console.WriteLine(fruit[i]);
                 }
-            // } catch (Exception ex) {
+            // } catch (Exception ex) { // the master of exceptions if u dont know the execption that will be thrown
             } catch (IndexOutOfRangeException ex) {
                 Console.WriteLine("Index problem!!");
                 Console.WriteLine(ex.Message);                
             } catch (ArgumentNullException ex) {
                 Console.WriteLine("Null problem!");
                 Console.WriteLine(ex.Message);
-            } finally {
+            } finally { // finally always is excuted at the end of the try and catch
                 Console.WriteLine("Finally block has been reached!");
             }
         }
