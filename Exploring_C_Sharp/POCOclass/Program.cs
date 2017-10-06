@@ -8,7 +8,7 @@ namespace POCOclass
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("POCO Class!");
             var produce = new List<object>();
 
             var f1 = new Fruit(); // No constructor, combiler will create no arg one
