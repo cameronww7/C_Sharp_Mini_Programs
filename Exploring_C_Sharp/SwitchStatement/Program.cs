@@ -11,6 +11,7 @@ namespace SwitchStatement
             Console.Write("Enter an operation: + - * / ");
             string operation = Console.ReadLine();
 
+            // just like c++
             switch (operation)
             {
                 case "+" :

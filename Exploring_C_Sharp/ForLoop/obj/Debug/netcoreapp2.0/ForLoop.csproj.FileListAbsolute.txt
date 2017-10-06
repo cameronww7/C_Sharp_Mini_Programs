@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ForLoop/bin/Debug/netcoreapp2.0/ForLoop.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ForLoop/bin/Debug/netcoreapp2.0/ForLoop.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ForLoop/bin/Debug/netcoreapp2.0/ForLoop.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ForLoop/bin/Debug/netcoreapp2.0/ForLoop.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ForLoop/bin/Debug/netcoreapp2.0/ForLoop.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ForLoop/obj/Debug/netcoreapp2.0/ForLoop.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ForLoop/obj/Debug/netcoreapp2.0/ForLoop.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ForLoop/obj/Debug/netcoreapp2.0/ForLoop.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ForLoop/obj/Debug/netcoreapp2.0/ForLoop.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ForLoop/obj/Debug/netcoreapp2.0/ForLoop.pdb
