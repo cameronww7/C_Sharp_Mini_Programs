@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/Simple_Calculator/Complete.csproj",
-      "projectName": "Complete",
-      "projectPath": "/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/Simple_Calculator/Complete.csproj",
+      "projectUniqueName": "/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/Simple_Calculator/Simple_Calculator.csproj",
+      "projectName": "Simple_Calculator",
+      "projectPath": "/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/Simple_Calculator/Simple_Calculator.csproj",
       "packagesPath": "/home/lpxpscww/.nuget/packages/",
       "outputPath": "/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/Simple_Calculator/obj/",
       "projectStyle": "PackageReference",

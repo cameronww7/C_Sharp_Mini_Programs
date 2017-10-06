@@ -25,16 +25,16 @@ namespace Simple_Calculator
 
                 switch (operation.ToUpper()) {
                     case "A" :
-                        result = Add(double1, double2);
+                        result = CalculatorUtilites.Add(double1, double2);
                         break;
                     case "S":
-                        result = Subtract(double1, double2);
+                        result = CalculatorUtilites.Subtract(double1, double2);
                         break;
                     case "M":
-                        result = Multiply(double1, double2);
+                        result = CalculatorUtilites.Multiply(double1, double2);
                         break;
                     case "D":
-                        result = Divide(double1, double2);
+                        result = CalculatorUtilites.Divide(double1, double2);
                         break;
                     default :
                         Console.WriteLine("Choose from supported operations");
@@ -58,26 +58,6 @@ namespace Simple_Calculator
 
                 return returnVal;
             }
-        }
-
-        private static double Add(double xDouble1, double xDouble2) {
-            return xDouble1 + xDouble2;
-        }
-        
-        private static double Subtract(double xDouble1, double xDouble2) {
-            return xDouble1 - xDouble2;
-        }
-        
-        private static  double Divide(double xDouble1, double xDouble2) {
-            if (xDouble1 == 0 || xDouble2 == 0) {
-                return 0;
-            } else {
-                return xDouble1 / xDouble2;
-            }
-        }
-        
-        private static double Multiply(double xDouble1, double xDouble2) {
-            return xDouble1 * xDouble2;
         }
     }
 }
