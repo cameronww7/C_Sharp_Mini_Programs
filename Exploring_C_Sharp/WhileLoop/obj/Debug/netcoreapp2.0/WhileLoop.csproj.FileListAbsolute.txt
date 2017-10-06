@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/WhileLoop/bin/Debug/netcoreapp2.0/WhileLoop.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/WhileLoop/bin/Debug/netcoreapp2.0/WhileLoop.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/WhileLoop/bin/Debug/netcoreapp2.0/WhileLoop.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/WhileLoop/bin/Debug/netcoreapp2.0/WhileLoop.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/WhileLoop/bin/Debug/netcoreapp2.0/WhileLoop.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/WhileLoop/obj/Debug/netcoreapp2.0/WhileLoop.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/WhileLoop/obj/Debug/netcoreapp2.0/WhileLoop.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/WhileLoop/obj/Debug/netcoreapp2.0/WhileLoop.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/WhileLoop/obj/Debug/netcoreapp2.0/WhileLoop.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/WhileLoop/obj/Debug/netcoreapp2.0/WhileLoop.pdb
