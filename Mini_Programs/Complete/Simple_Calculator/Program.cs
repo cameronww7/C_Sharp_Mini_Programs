@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Complete
+namespace Simple_Calculator
 {
     class Program
     {
@@ -20,7 +20,7 @@ namespace Complete
             {
                 Console.Write("(A)dd (S)ubtract (M)ultiply (D)ivide : ");
                 
-                ConsoleKeyInfo info = Console.ReadKey();
+                ConsoleKeyInfo info = Console.ReadKey(); //reads one char
                 string operation = info.Key.ToString();
 
                 switch (operation.ToUpper()) {

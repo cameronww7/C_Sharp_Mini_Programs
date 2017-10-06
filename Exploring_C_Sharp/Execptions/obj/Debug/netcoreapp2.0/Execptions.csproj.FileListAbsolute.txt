@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Execptions/bin/Debug/netcoreapp2.0/Execptions.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Execptions/bin/Debug/netcoreapp2.0/Execptions.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Execptions/bin/Debug/netcoreapp2.0/Execptions.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Execptions/bin/Debug/netcoreapp2.0/Execptions.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Execptions/bin/Debug/netcoreapp2.0/Execptions.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Execptions/obj/Debug/netcoreapp2.0/Execptions.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Execptions/obj/Debug/netcoreapp2.0/Execptions.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Execptions/obj/Debug/netcoreapp2.0/Execptions.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Execptions/obj/Debug/netcoreapp2.0/Execptions.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/Execptions/obj/Debug/netcoreapp2.0/Execptions.pdb
