@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/OverdingToString/bin/Debug/netcoreapp2.0/OverdingToString.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/OverdingToString/bin/Debug/netcoreapp2.0/OverdingToString.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/OverdingToString/bin/Debug/netcoreapp2.0/OverdingToString.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/OverdingToString/bin/Debug/netcoreapp2.0/OverdingToString.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/OverdingToString/bin/Debug/netcoreapp2.0/OverdingToString.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/OverdingToString/obj/Debug/netcoreapp2.0/OverdingToString.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/OverdingToString/obj/Debug/netcoreapp2.0/OverdingToString.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/OverdingToString/obj/Debug/netcoreapp2.0/OverdingToString.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/OverdingToString/obj/Debug/netcoreapp2.0/OverdingToString.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/OverdingToString/obj/Debug/netcoreapp2.0/OverdingToString.pdb
