@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/SimpleArray/obj/Debug/netcoreapp2.0/SimpleArray.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/SimpleArray/obj/Debug/netcoreapp2.0/SimpleArray.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/SimpleArray/obj/Debug/netcoreapp2.0/SimpleArray.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/SimpleArray/bin/Debug/netcoreapp2.0/SimpleArray.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/SimpleArray/bin/Debug/netcoreapp2.0/SimpleArray.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/SimpleArray/bin/Debug/netcoreapp2.0/SimpleArray.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/SimpleArray/bin/Debug/netcoreapp2.0/SimpleArray.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/SimpleArray/bin/Debug/netcoreapp2.0/SimpleArray.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/SimpleArray/obj/Debug/netcoreapp2.0/SimpleArray.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/SimpleArray/obj/Debug/netcoreapp2.0/SimpleArray.pdb
