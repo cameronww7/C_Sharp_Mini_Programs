@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ClassesDemo/bin/Debug/netcoreapp2.0/ClassesDemo.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ClassesDemo/bin/Debug/netcoreapp2.0/ClassesDemo.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ClassesDemo/bin/Debug/netcoreapp2.0/ClassesDemo.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ClassesDemo/bin/Debug/netcoreapp2.0/ClassesDemo.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ClassesDemo/bin/Debug/netcoreapp2.0/ClassesDemo.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ClassesDemo/obj/Debug/netcoreapp2.0/ClassesDemo.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ClassesDemo/obj/Debug/netcoreapp2.0/ClassesDemo.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ClassesDemo/obj/Debug/netcoreapp2.0/ClassesDemo.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ClassesDemo/obj/Debug/netcoreapp2.0/ClassesDemo.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/ClassesDemo/obj/Debug/netcoreapp2.0/ClassesDemo.pdb
