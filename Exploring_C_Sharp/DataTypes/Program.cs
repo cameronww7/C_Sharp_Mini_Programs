@@ -48,26 +48,25 @@ namespace DataTypes
             #region Loops
 
             // for loop 
-            for(int counter = 0; counter < 10; counter++)
+            for(int counter = 0; counter < 5; counter++)
             {
-               Console.WriteLine(counter);
+               Console.WriteLine("For : " + counter);
             }
 
 
             // foreach loop
-
             int[] arrInts = new int[] { 3, 5, 6, 23, 95, 45, 32 };
             foreach (int item in arrInts)
             {
-               Console.WriteLine(item);
+               Console.WriteLine("ForEach : " + item);
             }
 
 
             // while loop 
             int sentinel = 0;
-            while (sentinel < 10)
+            while (sentinel < 5)
             {
-               Console.WriteLine(sentinel);
+               Console.WriteLine("While : " + sentinel);
                sentinel++;
             }
 
@@ -76,7 +75,7 @@ namespace DataTypes
             int exitVar = 10;
             do
             {
-               Console.WriteLine(exitVar);
+               Console.WriteLine("DoWhile : " + exitVar);
                exitVar++;
             } while (exitVar < 10);
 
@@ -85,13 +84,13 @@ namespace DataTypes
             #region Decision Structures
             // if statement
             bool result = falseResult;
-            if (1 == 1)
+            if (result)
             {
-               Console.WriteLine("Result was " + trueResult + " (true)");
+               Console.WriteLine("If Else : Result was " + trueResult + " (true)");
             }
             else
             {
-               Console.WriteLine("Result was " + falseResult + " (true)");
+               Console.WriteLine("If Else : Result was " + falseResult + " (true)");
             }
 
 
@@ -99,15 +98,15 @@ namespace DataTypes
             int value = 2;
             if (value == 0)
             {
-               Console.WriteLine("Value is 0");
+               Console.WriteLine("If Else If: Value is 0");
             }
             else if (value == 1)
             {
-               Console.WriteLine("Value is not 0");
+               Console.WriteLine("If Else If: Value is not 0");
             }
             else
             {
-               Console.WriteLine("Value is something else");
+               Console.WriteLine("If Else If: Value is something else");
             }
 
 
@@ -117,15 +116,15 @@ namespace DataTypes
             switch (value2)
             {
                case 0:
-                   Console.WriteLine("Value is 0");
+                   Console.WriteLine("Switch : Value is 0");
                    break;
 
                case 1:
-                   Console.WriteLine("Value is 1");
+                   Console.WriteLine("Switch : Value is 1");
                    break;
 
                default:
-                   Console.WriteLine("Value is something else");
+                   Console.WriteLine("Switch : Value is something else");
                    break;
             }
             #endregion
