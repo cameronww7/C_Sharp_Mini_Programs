@@ -131,6 +131,14 @@ namespace DataTypes
         }
 
         // Create a non-returning function here that concatenates two strings and just displays the result in screen
+        // Cant find This because its a public and because the int is a static must change to static too to work
+        // leaving this to show that this is will produce an error if used
+        public void ConcatenateP (string first, string last) {
+            string whole = first + last;
+            Console.WriteLine(whole);
+        }
+
+        // Create a non-returning function here that concatenates two strings and just displays the result in screen
         // static void Concatenate(string first, string last)
         // {
         //    string whole = first + last;
@@ -142,8 +150,8 @@ namespace DataTypes
         // Create a returning function here that concatenates two strings and returns the result
         static string Concatenate(string first, string last)
         {
-            string whole = first + last;
-            return whole;
+            // string whole = first + last;
+            return first + last;
         }
 
     }
