@@ -9,8 +9,8 @@ namespace ClassesDemo
             Console.WriteLine("Classes Demo!");
 
             Animal dog = new Animal();
-            dog.move();
-            dog.makeNoise();
+            dog.Age = 2;
+            dog.Color = "Black";
         }
     }
 }
