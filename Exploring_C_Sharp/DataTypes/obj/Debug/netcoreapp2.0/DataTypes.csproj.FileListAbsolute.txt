@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DataTypes/bin/Debug/netcoreapp2.0/DataTypes.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DataTypes/bin/Debug/netcoreapp2.0/DataTypes.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DataTypes/bin/Debug/netcoreapp2.0/DataTypes.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DataTypes/bin/Debug/netcoreapp2.0/DataTypes.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DataTypes/bin/Debug/netcoreapp2.0/DataTypes.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DataTypes/obj/Debug/netcoreapp2.0/DataTypes.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DataTypes/obj/Debug/netcoreapp2.0/DataTypes.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DataTypes/obj/Debug/netcoreapp2.0/DataTypes.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DataTypes/obj/Debug/netcoreapp2.0/DataTypes.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_C_Sharp/DataTypes/obj/Debug/netcoreapp2.0/DataTypes.pdb
