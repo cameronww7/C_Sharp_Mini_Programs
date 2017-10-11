@@ -35,28 +35,27 @@ namespace ExecptionsHandling
                     Console.WriteLine();
                     Console.WriteLine("The result is: " + result);
                 }
-                catch (OverflowException ofEx)
+                catch (OverflowException ofEx) // explicit exceptions first, too large of a number
                 {
                     errorMessage = ofEx.Message;
                     Console.WriteLine("\n" + errorMessage);
                 }
-                catch (DivideByZeroException dEx)
+                catch (DivideByZeroException dEx) // explicit exceptions first, Divide by 0 error
                 {
                     errorMessage = dEx.Message;
                     Console.WriteLine("\n" + errorMessage);
                 }
-                catch (Exception e)
+                catch (Exception e) // Generic Exception
                 {
                     errorMessage = e.Message;
                     Console.WriteLine("\n" + errorMessage);
                 }
-                finally
+                finally // Place to add to close any files or what ever needs to happen after the try catch
                 {
                     Console.WriteLine("");
                 }
 
-            } while(errorMessage != "n/a");
-            
+            } while(errorMessage != "n/a");   
         }
     }
 }
