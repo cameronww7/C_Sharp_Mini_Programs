@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/CarsClassFun/bin/Debug/netcoreapp2.0/CarsClassFun.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/CarsClassFun/bin/Debug/netcoreapp2.0/CarsClassFun.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/CarsClassFun/bin/Debug/netcoreapp2.0/CarsClassFun.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/CarsClassFun/bin/Debug/netcoreapp2.0/CarsClassFun.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/CarsClassFun/bin/Debug/netcoreapp2.0/CarsClassFun.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/CarsClassFun/obj/Debug/netcoreapp2.0/CarsClassFun.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/CarsClassFun/obj/Debug/netcoreapp2.0/CarsClassFun.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/CarsClassFun/obj/Debug/netcoreapp2.0/CarsClassFun.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/CarsClassFun/obj/Debug/netcoreapp2.0/CarsClassFun.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Mini_Programs/Complete/CarsClassFun/obj/Debug/netcoreapp2.0/CarsClassFun.pdb
