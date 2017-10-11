@@ -50,7 +50,10 @@ namespace ExecptionsHandling
                     errorMessage = e.Message;
                     Console.WriteLine("\n" + errorMessage);
                 }
-                Console.WriteLine("");
+                finally
+                {
+                    Console.WriteLine("");
+                }
 
             } while(errorMessage != "n/a");
             
