@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Linked_List/bin/Debug/netcoreapp2.0/Linked_List.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Linked_List/bin/Debug/netcoreapp2.0/Linked_List.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Linked_List/bin/Debug/netcoreapp2.0/Linked_List.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Linked_List/bin/Debug/netcoreapp2.0/Linked_List.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Linked_List/bin/Debug/netcoreapp2.0/Linked_List.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Linked_List/obj/Debug/netcoreapp2.0/Linked_List.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Linked_List/obj/Debug/netcoreapp2.0/Linked_List.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Linked_List/obj/Debug/netcoreapp2.0/Linked_List.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Linked_List/obj/Debug/netcoreapp2.0/Linked_List.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Linked_List/obj/Debug/netcoreapp2.0/Linked_List.pdb
