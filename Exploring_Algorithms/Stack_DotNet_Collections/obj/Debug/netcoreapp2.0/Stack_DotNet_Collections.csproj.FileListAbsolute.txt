@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Stack_DotNet_Collections/bin/Debug/netcoreapp2.0/Stack_DotNet_Collections.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Stack_DotNet_Collections/bin/Debug/netcoreapp2.0/Stack_DotNet_Collections.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Stack_DotNet_Collections/bin/Debug/netcoreapp2.0/Stack_DotNet_Collections.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Stack_DotNet_Collections/bin/Debug/netcoreapp2.0/Stack_DotNet_Collections.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Stack_DotNet_Collections/bin/Debug/netcoreapp2.0/Stack_DotNet_Collections.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Stack_DotNet_Collections/obj/Debug/netcoreapp2.0/Stack_DotNet_Collections.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Stack_DotNet_Collections/obj/Debug/netcoreapp2.0/Stack_DotNet_Collections.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Stack_DotNet_Collections/obj/Debug/netcoreapp2.0/Stack_DotNet_Collections.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Stack_DotNet_Collections/obj/Debug/netcoreapp2.0/Stack_DotNet_Collections.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Stack_DotNet_Collections/obj/Debug/netcoreapp2.0/Stack_DotNet_Collections.pdb
