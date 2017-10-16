@@ -20,6 +20,7 @@ namespace Queue
             Console.WriteLine("About to remove item from queue");
             myQueue.remove();
             Console.WriteLine($"Front of queue is {myQueue.peekFront()} ");
+            myQueue.view();
         }
     }
 
@@ -66,6 +67,13 @@ namespace Queue
             {
                 front = 0;
             }
+
+            // removes from the que
+            for(int index = 0; index < maxSize-1; index++) {
+                myQueue[index] = myQueue[index+1];
+            }
+            myQueue[maxSize-1] = 0;
+
             return temp;
         }
 
@@ -88,7 +96,7 @@ namespace Queue
             Console.Write("[");
             for (int i = 0; i < myQueue.Length; i++)
             {
-                Write(myQueue[i] + " ");
+                Console.Write(myQueue[i] + " ");
             }
             Console.WriteLine("]");
         }
