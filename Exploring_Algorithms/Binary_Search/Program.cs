@@ -25,10 +25,10 @@ namespace Binary_Search
         /// q = midpoint
         /// r = last index
         /// </summary>
-        public static int binarySearch(int[] myArray, int searchValue) {
+        public static int binarySearch(int[] xMyArray, int xSearchValue) {
             // Step 1 - intialize the variables
             int currentMid  = 0;          // beginning of the range
-            int maxSize     = myArray.Length - 1;  // the end of the range aka last slot
+            int maxSize     = xMyArray.Length - 1;  // the end of the range aka last slot
             int returnValue = -1;
 
             // Step 2 - we do something (search for our value)
@@ -36,12 +36,12 @@ namespace Binary_Search
             {
                 int newMidPoint = (currentMid + maxSize) / 2; // find the midpoint
 
-                if (searchValue < myArray[newMidPoint]) 
+                if (xSearchValue < xMyArray[newMidPoint]) 
                 {
                     maxSize = newMidPoint - 1;  // set r to mid point. We narrowed to 1st half of the
                                                 // array in the case x is less the data in slot q                 
                 }
-                else if (searchValue > myArray[newMidPoint]) 
+                else if (xSearchValue > xMyArray[newMidPoint]) 
                 {
                     currentMid = newMidPoint + 1; // the opposite occurs. we bring p to the right of the array 
                 }
