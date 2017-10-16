@@ -30,13 +30,12 @@ namespace Queue_DotNet_Collections
             }
 
             Console.WriteLine("\nDequeuing '{0}'", movies.Dequeue());
-            Console.WriteLine("The next item to dequeue using peek: {0}",
-                movies.Peek());
+            Console.WriteLine("The next item to dequeue using peek: {0}", movies.Peek());
             Console.WriteLine("Dequeuing '{0}'", movies.Dequeue());
 
             Queue<string> queueCopy = new Queue<string>(movies.ToArray());
 
-           Console.WriteLine("\nContents of the first copy:");
+            Console.WriteLine("\nContents of the first copy:");
             foreach (string movie in queueCopy)
             {
                 Console.WriteLine(movie);
@@ -47,15 +46,13 @@ namespace Queue_DotNet_Collections
 
             Queue<string> queueCopy2 = new Queue<string>(array2);
 
-            Console.WriteLine("\nContents of the second copy, with duplicates and" +
-                      " nulls:");
+            Console.WriteLine("\nContents of the second copy, with duplicates and nulls:");
             foreach (string movie in queueCopy2)
             {
                 Console.WriteLine(movie);
             }
 
-            Console.WriteLine("\nqueueCopy.Contains(\"Dallas Buyers Club\") = {0}",
-                queueCopy.Contains("Dallas Buyers Club"));
+            Console.WriteLine("\nqueueCopy.Contains(\"Dallas Buyers Club\") = {0}", queueCopy.Contains("Dallas Buyers Club"));
 
             Console.WriteLine("\nqueueCopy.Clear()");
             queueCopy.Clear();
