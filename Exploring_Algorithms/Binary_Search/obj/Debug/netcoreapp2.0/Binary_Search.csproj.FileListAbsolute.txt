@@ -1,0 +1,10 @@
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Binary_Search/obj/Debug/netcoreapp2.0/Binary_Search.csproj.CoreCompileInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Binary_Search/obj/Debug/netcoreapp2.0/Binary_Search.AssemblyInfoInputs.cache
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Binary_Search/obj/Debug/netcoreapp2.0/Binary_Search.AssemblyInfo.cs
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Binary_Search/bin/Debug/netcoreapp2.0/Binary_Search.deps.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Binary_Search/bin/Debug/netcoreapp2.0/Binary_Search.runtimeconfig.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Binary_Search/bin/Debug/netcoreapp2.0/Binary_Search.runtimeconfig.dev.json
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Binary_Search/bin/Debug/netcoreapp2.0/Binary_Search.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Binary_Search/bin/Debug/netcoreapp2.0/Binary_Search.pdb
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Binary_Search/obj/Debug/netcoreapp2.0/Binary_Search.dll
+/home/lpxpscww/Progamming Workspace/C#_Workspace/C#_Mini_Programs/Exploring_Algorithms/Binary_Search/obj/Debug/netcoreapp2.0/Binary_Search.pdb
